@@ -25,7 +25,7 @@
     "moment": "^2.24.0",
     "vega": "^5.4.0",
     "vega-embed": "^4.2.2",
-    "vega-lite": "3.4.0",
+    "vega-lite": "4.0.0",
     "vue": "^2.6.12",
     "vue-apexcharts": "^1.6.1",
     "vue-clipboard2": "^0.3.1",
